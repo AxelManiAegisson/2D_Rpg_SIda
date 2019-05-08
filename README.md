@@ -1,5 +1,9 @@
 ## Welcome to GitHub Pages
 
+https://github.com/AxelManiAegisson/2D_Rpg
+
+Til að spila leikiin notaru WASD og Space takkan til að hreyfa þig og árása. Til að sigra leikinn þarftu að drepa endakallinn(Stóra Tré)
+
 You can use the [editor on GitHub](https://github.com/AxelManiAegisson/2D_Rpg_SIda/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
